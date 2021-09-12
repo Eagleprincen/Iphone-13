@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Website</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#262626;
+padding:0 50px;
+}
+.logo{
+width:30%
+float:left;
+color:#fff;
+font-weight:bold;
+text-transform:unppercase;
+line-height:60px
+font-size::35px
+font-family:sans-serif;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color:#fff;
+font-family:sans-serif;
+font-weight:bold;
+margin:0  10px;
+line-height:60px
+text-transform:uppercase;
+}
+.banner{
+height:100%;
+}
+.banner img{
+width:100%;
+height:90vh;
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottom:25px;
+}
+footer{
+background:#000;
+color:#fff;
+padding:15px 50px;
+text-align:center;
+}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">Logo</div>
+
+<nav>
+<ul>
+<li><a href= "#">Home</a></li>
+<li><a href= "#">About</a></li>
+<li><a href= "#">Portfolio</a></li>
+<li><a href= "#">Services</a></li>
+<li><a href= "#">Contacts</a></li>
+</ul>
+</nav>
+</header>
+
+<div class= "banner">
+<img src="leaves-grass-light-background-wallpaper-preview.jpg" alt="">
+</div>
+
+<div class="content">
+<p>The iPhone 12 Pro and iPhone 12 Pro Max are smartphones designed and marketed by Apple Inc.
+They are the flagship smartphones in the fourteenth generation of the iPhone, succeeding the iPhone 11 Pro and iPhone 11 Pro Max.
+They were announced on October 13, 2020, with the iPhone 12 Pro being released on October 23, 2020, and the iPhone 12 Pro Max on November 13, 2020. 
+The devices were unveiled alongside the iPhone 12 and iPhone 12 Mini at an Apple Special Event at Apple Park in Cupertino, California on October 13, 2020.
+
+Major upgrades over the iPhone 11 Pro and iPhone 11 Pro Max include the addition of 5G support, 
+the LiDAR sensor, ProRAW (DNG) allowing high quality lossless 12bit image capture in the native photos app with the use of the new DNG v1.6 specification, 
+the introduction of the MagSafe wireless charging and accessory system, the Apple A14 Bionic system on a chip (SoC), high-dynamic-range video Dolby Vision 10bit 4:2:0 4K video recording at 30 or 60 fps, 
+larger 6.1-inch and 6.7-inch displays on the iPhone 12 Pro and iPhone 12 Pro Max, respectively, and the move to a base capacity of 128 GB (1 GB = 1 billion bytes) from the prior base capacity of 64 GB, while retaining the other storage capacities of 256 GB and 512 GB. The iPhone 12 Pro and iPhone 12 Pro Max, 
+like the iPhone 12 and iPhone 12 Mini, are the first iPhone models from Apple to no longer include a power adapter or EarPods headphones found in prior iPhone models; however, a USB-C to Lightning cable is still included, and this change was retroactively applied to other iPhone models sold by Apple including the iPhone XR, 
+iPhone 11, and iPhone SE (2nd generation).</p>
+<p>The iPhone 12 Pro and iPhone 12 Pro Max are smartphones designed and marketed by Apple Inc.
+They are the flagship smartphones in the fourteenth generation of the iPhone, succeeding the iPhone 11 Pro and iPhone 11 Pro Max.
+They were announced on October 13, 2020, with the iPhone 12 Pro being released on October 23, 2020, and the iPhone 12 Pro Max on November 13, 2020. 
+The devices were unveiled alongside the iPhone 12 and iPhone 12 Mini at an Apple Special Event at Apple Park in Cupertino, California on October 13, 2020.
+
+Major upgrades over the iPhone 11 Pro and iPhone 11 Pro Max include the addition of 5G support, 
+the LiDAR sensor, ProRAW (DNG) allowing high quality lossless 12bit image capture in the native photos app with the use of the new DNG v1.6 specification, 
+the introduction of the MagSafe wireless charging and accessory system, the Apple A14 Bionic system on a chip (SoC), high-dynamic-range video Dolby Vision 10bit 4:2:0 4K video recording at 30 or 60 fps, 
+larger 6.1-inch and 6.7-inch displays on the iPhone 12 Pro and iPhone 12 Pro Max, respectively, and the move to a base capacity of 128 GB (1 GB = 1 billion bytes) from the prior base capacity of 64 GB, while retaining the other storage capacities of 256 GB and 512 GB. The iPhone 12 Pro and iPhone 12 Pro Max, 
+like the iPhone 12 and iPhone 12 Mini, are the first iPhone models from Apple to no longer include a power adapter or EarPods headphones found in prior iPhone models; however, a USB-C to Lightning cable is still included, and this change was retroactively applied to other iPhone models sold by Apple including the iPhone XR, 
+iPhone 11, and iPhone SE (2nd generation).</p>
+<p>The iPhone 12 Pro and iPhone 12 Pro Max are smartphones designed and marketed by Apple Inc.
+They are the flagship smartphones in the fourteenth generation of the iPhone, succeeding the iPhone 11 Pro and iPhone 11 Pro Max.
+They were announced on October 13, 2020, with the iPhone 12 Pro being released on October 23, 2020, and the iPhone 12 Pro Max on November 13, 2020. 
+The devices were unveiled alongside the iPhone 12 and iPhone 12 Mini at an Apple Special Event at Apple Park in Cupertino, California on October 13, 2020.
+
+Major upgrades over the iPhone 11 Pro and iPhone 11 Pro Max include the addition of 5G support, 
+the LiDAR sensor, ProRAW (DNG) allowing high quality lossless 12bit image capture in the native photos app with the use of the new DNG v1.6 specification, 
+the introduction of the MagSafe wireless charging and accessory system, the Apple A14 Bionic system on a chip (SoC), high-dynamic-range video Dolby Vision 10bit 4:2:0 4K video recording at 30 or 60 fps, 
+larger 6.1-inch and 6.7-inch displays on the iPhone 12 Pro and iPhone 12 Pro Max, respectively, and the move to a base capacity of 128 GB (1 GB = 1 billion bytes) from the prior base capacity of 64 GB, while retaining the other storage capacities of 256 GB and 512 GB. The iPhone 12 Pro and iPhone 12 Pro Max, 
+like the iPhone 12 and iPhone 12 Mini, are the first iPhone models from Apple to no longer include a power adapter or EarPods headphones found in prior iPhone models; however, a USB-C to Lightning cable is still included, and this change was retroactively applied to other iPhone models sold by Apple including the iPhone XR, 
+iPhone 11, and iPhone SE (2nd generation).</p>
+
+</div>
+<footer>
+<p>All Right Reserved By Your Website</p>
+</footer>
+</body>
+
+<html>
